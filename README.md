@@ -1,1 +1,6 @@
-# 2A_POO_SEMANA2
+2525---PROGRAMACION-ORIENTADA-A-OBJETOS
+TECNICAS DE PROGRAMACIÓN
+Abstracción
+Encapsulación
+Herencia
+Polimorfismo
