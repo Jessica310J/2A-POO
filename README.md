@@ -4,3 +4,5 @@ Abstracción
 Encapsulación
 Herencia
 Polimorfismo
+Progrmación Tradicional
+Programación Orientada a Objetos
