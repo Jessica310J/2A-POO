@@ -23,5 +23,12 @@ class Agenda:
 
     def mostrar_todos(self):
         # Muestra todos los contactos almacenados
-        return [contacto.mostrar_contacto() for contacto in self.contactos]
+        return [contacto.mostrar_contacto() for contacto in self.contactos]}
+
+        # Continuación en agenda_contactos.py
+
+        def buscar_por_nombre(self, nombre):
+            # Busca contactos por nombre y devuelve una lista con coincidencias
+            return [contacto for contacto in self.contactos if contacto.nombre == nombre]
+
 
