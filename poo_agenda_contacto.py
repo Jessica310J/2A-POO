@@ -48,6 +48,6 @@ for info in mi_agenda.mostrar_todos():
     print(info)
 
 # Buscar un contacto por nombre
-resultados = mi_agenda.buscar_por_nombre("Ana Pérez")
+resultados = mi_agenda.buscar_por_nombre("Jessica Pesantez")
 for contacto in resultados:
     print("Contacto encontrado:", contacto.mostrar_contacto())
