@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68e3b4b5-9750-49db-9c0d-ae4ba29e7f3e" name="Changes" comment="Corrección de sintaxis y mejora de estructura en la clase Agenda:&#10;- Eliminación de corchete incorrecto para evitar error de sintaxis.&#10;- Ajuste de indentación para mantener consistencia y legibilidad.&#10;- Inclusión de contacto 'Jessica Pesantez' para validar funcionalidad de búsqueda por nombre.&#10;El código ahora cumple con estándares de claridad, mantenibilidad y buenas prácticas orientadas a objetos." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="USUARIO &lt;jp.pesantezt@uea.edu.ec&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../EjemplosMundoReal_POO" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Jessica310J&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Jessica310J/2A-POO.git&quot;,
+    &quot;accountId&quot;: &quot;3c57708b-2377-401e-8d0f-82f07ed1ed69&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2ykAdWvr8Qkn9B5p7Xsu7GPvCP4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.poo_agenda_contacto (1).executor": "Run",
+    "Python.poo_agenda_contacto.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/USUARIO/PycharmProjects/MUNDO_POO",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USUARIO\PycharmProjects\MUNDO_POO" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.poo_agenda_contacto (1)">
+    <configuration name="poo_agenda_contacto (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MUNDO_POO" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../EjemplosMundoReal_POO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../EjemplosMundoReal_POO/poo_agenda_contacto.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="poo_agenda_contacto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MUNDO_POO" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/poo_agenda_contacto.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.poo_agenda_contacto (1)" />
+        <item itemvalue="Python.poo_agenda_contacto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PY-243.24978.54" />
+        <option value="bundled-python-sdk-91e3b7efe1d4-466328ff949b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.24978.54" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68e3b4b5-9750-49db-9c0d-ae4ba29e7f3e" name="Changes" comment="" />
+      <created>1750368286084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750368286084</updated>
+      <workItem from="1750368287262" duration="6717000" />
+      <workItem from="1750443510569" duration="1297000" />
+      <workItem from="1750456982393" duration="733000" />
+      <workItem from="1750541425633" duration="3447000" />
+    </task>
+    <task id="LOCAL-00001" summary="Crear clase Contacto con atributos y método para mostrar información">
+      <option name="closed" value="true" />
+      <created>1750372319883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750372319883</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: Crear clase Contacto para la gestión de datos&#10;&#10;Añade la implementación inicial de la clase `Contacto`.&#10;Esta clase es responsable de almacenar la información básica de un contacto:&#10;- `nombre` (str)&#10;- `telefono` (str)&#10;- `email` (str)&#10;&#10;También incluye el método `mostrar_contacto()` para formatear la información del contacto en una cadena legible.">
+      <option name="closed" value="true" />
+      <created>1750375016458</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1750375016458</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: Implement Agenda class for contact management&#10;&#10;Adds the `Agenda` class to manage a collection of `Contacto` objects.&#10;&#10;Key features include:&#10;- `__init__()`: Initializes an empty list to store contacts.&#10;- `agregar_contacto(contacto)`: Allows adding a new `Contacto` object to the agenda.&#10;- `mostrar_todos()`: Returns a list of formatted strings for all contacts currently in the agenda.&#10;&#10;This class centralizes contact management, building upon the `Contacto` class.">
+      <option name="closed" value="true" />
+      <created>1750375438430</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1750375438430</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat(agenda): agregar método buscar_por_nombre con buenas prácticas de POO&#10;&#10;- Método descriptivo en snake_case siguiendo PEP8&#10;- Mantiene encapsulación accediendo a lista interna de contactos&#10;- Retorna lista de objetos Contacto para facilitar reutilización&#10;- Comentario claro explicando funcionalidad">
+      <option name="closed" value="true" />
+      <created>1750444117016</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1750444117016</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat(agenda): agregar código de prueba para crear, agregar, mostrar y buscar contactos&#10;&#10;- Crear instancia de Agenda y objetos Contacto&#10;- Agregar contactos a la agenda&#10;- Mostrar todos los contactos&#10;- Buscar contactos por nombre y mostrar resultados&#10;- Demuestra uso práctico de las clases definidas">
+      <option name="closed" value="true" />
+      <created>1750542108835</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1750542108835</updated>
+    </task>
+    <task id="LOCAL-00006" summary="chore(agenda): actualizar datos y número de contactos en código de prueba&#10;&#10;- Cambiar información de contactos a Jessica Pesantez y Alex Pesantez&#10;- Actualizar números telefónicos y correos electrónicos&#10;- Ajustar cantidad de contactos agregados para pruebas">
+      <option name="closed" value="true" />
+      <created>1750542603541</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1750542603541</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Corrección de sintaxis y mejora de estructura en la clase Agenda:&#10;- Eliminación de corchete incorrecto para evitar error de sintaxis.&#10;- Ajuste de indentación para mantener consistencia y legibilidad.&#10;- Inclusión de contacto 'Jessica Pesantez' para validar funcionalidad de búsqueda por nombre.&#10;El código ahora cumple con estándares de claridad, mantenibilidad y buenas prácticas orientadas a objetos.">
+      <option name="closed" value="true" />
+      <created>1750544007310</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1750544007310</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Crear clase Contacto con atributos y método para mostrar información" />
+    <MESSAGE value="feat: Crear clase Contacto para la gestión de datos&#10;&#10;Añade la implementación inicial de la clase `Contacto`.&#10;Esta clase es responsable de almacenar la información básica de un contacto:&#10;- `nombre` (str)&#10;- `telefono` (str)&#10;- `email` (str)&#10;&#10;También incluye el método `mostrar_contacto()` para formatear la información del contacto en una cadena legible." />
+    <MESSAGE value="feat: Implement Agenda class for contact management&#10;&#10;Adds the `Agenda` class to manage a collection of `Contacto` objects.&#10;&#10;Key features include:&#10;- `__init__()`: Initializes an empty list to store contacts.&#10;- `agregar_contacto(contacto)`: Allows adding a new `Contacto` object to the agenda.&#10;- `mostrar_todos()`: Returns a list of formatted strings for all contacts currently in the agenda.&#10;&#10;This class centralizes contact management, building upon the `Contacto` class." />
+    <MESSAGE value="feat(agenda): agregar método buscar_por_nombre con buenas prácticas de POO&#10;&#10;- Método descriptivo en snake_case siguiendo PEP8&#10;- Mantiene encapsulación accediendo a lista interna de contactos&#10;- Retorna lista de objetos Contacto para facilitar reutilización&#10;- Comentario claro explicando funcionalidad" />
+    <MESSAGE value="feat(agenda): agregar código de prueba para crear, agregar, mostrar y buscar contactos&#10;&#10;- Crear instancia de Agenda y objetos Contacto&#10;- Agregar contactos a la agenda&#10;- Mostrar todos los contactos&#10;- Buscar contactos por nombre y mostrar resultados&#10;- Demuestra uso práctico de las clases definidas" />
+    <MESSAGE value="chore(agenda): actualizar datos y número de contactos en código de prueba&#10;&#10;- Cambiar información de contactos a Jessica Pesantez y Alex Pesantez&#10;- Actualizar números telefónicos y correos electrónicos&#10;- Ajustar cantidad de contactos agregados para pruebas" />
+    <MESSAGE value="Corrección de sintaxis y mejora de estructura en la clase Agenda:&#10;- Eliminación de corchete incorrecto para evitar error de sintaxis.&#10;- Ajuste de indentación para mantener consistencia y legibilidad.&#10;- Inclusión de contacto 'Jessica Pesantez' para validar funcionalidad de búsqueda por nombre.&#10;El código ahora cumple con estándares de claridad, mantenibilidad y buenas prácticas orientadas a objetos." />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrección de sintaxis y mejora de estructura en la clase Agenda:&#10;- Eliminación de corchete incorrecto para evitar error de sintaxis.&#10;- Ajuste de indentación para mantener consistencia y legibilidad.&#10;- Inclusión de contacto 'Jessica Pesantez' para validar funcionalidad de búsqueda por nombre.&#10;El código ahora cumple con estándares de claridad, mantenibilidad y buenas prácticas orientadas a objetos." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../EjemplosMundoReal_POO/poo_agenda_contacto.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../EjemplosMundoReal_POO/poo_agenda_contacto.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../EjemplosMundoReal_POO/poo_agenda_contacto.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MUNDO_POO$poo_agenda_contacto__1_.coverage" NAME="poo_agenda_contacto (1) Coverage Results" MODIFIED="1750543526123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../EjemplosMundoReal_POO" />
+    <SUITE FILE_PATH="coverage/MUNDO_POO$poo_agenda_contacto.coverage" NAME="poo_agenda_contacto Coverage Results" MODIFIED="1750542515887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
