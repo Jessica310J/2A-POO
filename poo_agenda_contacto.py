@@ -37,10 +37,10 @@ class Agenda:
 mi_agenda = Agenda()
 
 # Crear y agregar contactos
-contacto1 = Contacto("Ana Pérez", "555-1234", "ana@example.com")
+contacto1 = Contacto("Jessica Pesantez", "027304-513", "jess_12@example.com")
 mi_agenda.agregar_contacto(contacto1)
 
-contacto2 = Contacto("Luis Gómez", "555-5678", "luis@example.com")
+contacto2 = Contacto("Alex Pesantez", "027304-056", "alexp15_20@example.com")
 mi_agenda.agregar_contacto(contacto2)
 
 # Mostrar todos los contactos
