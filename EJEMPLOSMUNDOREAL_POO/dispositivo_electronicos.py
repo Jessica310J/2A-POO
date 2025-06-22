@@ -35,3 +35,16 @@ class Tablet(Dispositivo):
 
     def encender(self):
         print(f"Tablet {self._marca} {self._modelo} de {self.pulgadas}\" encendida.")
+
+def usar_dispositivo(dispositivo):
+    dispositivo.encender()
+    dispositivo.apagar()
+
+pc = Computadora("Dell", "XPS 15", 16)
+celular = Telefono("Samsung", "Galaxy S21", 108)
+tablet = Tablet("Apple", "iPad Air", 10.9)
+
+usar_dispositivo(pc)
+usar_dispositivo(celular)
+usar_dispositivo(tablet)
+
