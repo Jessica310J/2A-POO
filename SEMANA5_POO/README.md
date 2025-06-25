@@ -14,4 +14,4 @@ Jessica   Pesantez
 
 ## CODIGO DE RESTAURANTE/ CAPTURA DE PANTALLA
 
-![](C:\Users\USUARIO\PycharmProjects\2A-POO\restaurante.py.png)
+<img height="12" src="C:\Users\USUARIO\PycharmProjects\2A-POO\restaurante.py.png" width="10"/>
