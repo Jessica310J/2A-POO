@@ -10,4 +10,4 @@ Este proyecto simula un sistema de pedidos en un restaurante usando POO en Pytho
 
 ## Autor
 
-Jessica  Paola Pesantez
+Jessica   Pesantez
