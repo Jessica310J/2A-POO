@@ -12,6 +12,9 @@ Este proyecto simula un sistema de pedidos en un restaurante usando POO en Pytho
 
 Jessica   Pesantez
 
-## CODIGO DE RESTAURANTE/ CAPTURA DE PANTALLA
+## Ejecición de Código
 
-<img height="12" src="C:\Users\USUARIO\PycharmProjects\2A-POO\restaurante.py.png" width="10"/>
+
+![restaurante.py.png](IMAGENES/restaurante.py.png)
+
+
