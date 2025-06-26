@@ -12,7 +12,7 @@ Este proyecto simula un sistema de pedidos en un restaurante usando POO en Pytho
 
 Jessica   Pesantez
 
-## Ejecición de Código
+## Ejecución del Código
 
 
 ![restaurante.py.png](IMAGENES/restaurante.py.png)
