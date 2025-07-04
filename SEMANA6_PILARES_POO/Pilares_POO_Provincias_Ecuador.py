@@ -1,6 +1,4 @@
 # -----------------------------------------------
-
-# OopCompanion:suppressRename
 # PROGRAMA: PROVINCIAS DEL ECUADOR (POO EN PYTHON)
 # Autor: [Jessica Pesantez]
 # Fecha: [04-07-2025]
