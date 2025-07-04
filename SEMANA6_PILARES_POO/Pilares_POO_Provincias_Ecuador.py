@@ -65,7 +65,7 @@ def cargar_provincias():
     provincias[1]._establecer_poblacion(3000000)  # Pichincha
     provincias[2]._establecer_poblacion(4500000)  # Guayas
     provincias[3]._establecer_poblacion(700000)  # El Oro
-    provincias[4]._establecer_poblacion(30000)  # Galápagos
+    provincias[4]._establecer_poblacion(30001)  # Galápagos
 
     return provincias
 
