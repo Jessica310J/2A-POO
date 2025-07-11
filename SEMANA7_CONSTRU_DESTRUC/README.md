@@ -43,6 +43,7 @@ Estos ejercicios ayudan a comprender cómo **inicializar objetos** y **liberar r
 
 ##  Captura de Codigo table.py
 
+
 ![tablet_ejecucion.png](IMAGENES/tablet_ejecucion.png)
 
 
