@@ -19,6 +19,7 @@ class Estudiante:
 if __name__ == "__main__": # Ejemplo de uso
     estudiante1 = Estudiante("Carolina Montenegro", 30, "Ingeniera en Tecnologías de la Información")
 
+
     # 2. Uso del objeto
     estudiante1.mostrar_informacion()
 
