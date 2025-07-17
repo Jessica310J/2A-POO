@@ -11,16 +11,24 @@ Este repositorio contiene una colección de ejemplos y ejercicios de Programaci�
 
 El proyecto se organiza en carpetas semanales:
 
-2A-POO/
-├── 2.SEMANA2_POO/
-├── 3.SEMANA3_POO_TRADICIONAL/
-├── 4.SEMANA4_Mundo_Real_POO/
-├── 5.SEMANA5_POO/
-├── 6.SEMANA6_PILARES_POO/
-├── 7.1.SEMANA7_SIMULACION/
-├── 7.2.SEMANA7_CONSTRU_DESTRUC/
-├── dashboard.py
-└── README.md
+## 2A-POO
+2.SEMANA2_POO
+
+3.SEMANA3_POO_TRADICIONAL
+
+4.SEMANA4_Mundo_Real_POO
+
+5.SEMANA5_POO
+
+6.SEMANA6_PILARES_POO
+
+7.1.SEMANA7_SIMULACION
+
+7.2.SEMANA7_CONSTRU_DESTRUC
+
+dashboard.py
+
+README.md
 ### **Cómo Usar el Dashboard (`dashboard.py`):**
 
 1.  **Requisitos:** Python 3.x.
