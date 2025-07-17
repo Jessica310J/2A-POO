@@ -29,6 +29,8 @@ El proyecto se organiza en carpetas semanales:
 dashboard.py
 
 README.md
+
+---
 ### **Cómo Usar el Dashboard (`dashboard.py`):**
 
 1.  **Requisitos:** Python 3.x.
@@ -45,7 +47,7 @@ README.md
     * El menú te permitirá seleccionar una semana por su número.
     * Dentro de cada semana, podrás seleccionar un script para **ver su código** o **ejecutarlo** en una nueva ventana.
     * Usa `0` para regresar al menú anterior o salir.
-
+---
 ### **Capturas de Pantalla:**
 
 
