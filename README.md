@@ -40,6 +40,7 @@ El proyecto se organiza en carpetas semanales:
 
 ### **Capturas de Pantalla:**
 
+
 (Se añadirán imágenes aquí para ilustrar el dashboard y la estructura del proyecto.)
 
 ---
