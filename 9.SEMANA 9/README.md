@@ -43,7 +43,7 @@ Esta imagen muestra el menú principal del sistema y la interacción al añadir 
 ![Imagen1.JPG](imagenes_S9/Imagen1.JPG)
 
 2. Actualizar y Buscar Producto
-Esta imagen muestra la funcionalidad de búsqueda de productos por nombre, donde se ingresa "fideo tosca" y se encuentra el producto correspondiente.
+Esta imagen muestra la funcionalidad de búsqueda de productos por nombre, donde se ingresa "fideos toscana" y se encuentra el producto correspondiente.
 
 ![Imagen2.JPG](imagenes_S9/Imagen2.JPG)
 
