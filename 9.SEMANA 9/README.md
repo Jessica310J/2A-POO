@@ -37,17 +37,17 @@ _____
 Capturas de Pantalla
 A continuación, se muestran tres capturas de pantalla que ilustran el funcionamiento del sistema en ejecución.
 _____
-1. Menú Principal y Añadir Producto
-Esta imagen muestra el menú principal del sistema y la interacción al añadir un nuevo producto al inventario.
-
-![Imagen1.JPG](imagenes_S9/Imagen1.JPG)
-
-2. Actualizar y Buscar Producto
-Esta imagen muestra la funcionalidad de búsqueda de productos por nombre, donde se ingresa "fideos toscana" y se encuentra el producto correspondiente.
-
-![Imagen2.JPG](imagenes_S9/Imagen2.JPG)
-
-3. Ejemplo Adicional de Interacción
-Esta última captura muestra otra instancia de interacción con el programa, mostrando la actualización de un producto o la visualización de la lista completa.
-
-![Imagen3.JPG](imagenes_S9/Imagen3.JPG)
+--- Sistema de Gestión de Inventarios ---
+![Diapositiva1.JPG](imagenes_S9/Diapositiva1.JPG)
+1. Añadir nuevo producto
+![Diapositiva2.JPG](imagenes_S9/Diapositiva2.JPG)
+2. Eliminar producto por ID
+![Diapositiva3.JPG](imagenes_S9/Diapositiva3.JPG)
+3. Actualizar producto
+![Diapositiva4.JPG](imagenes_S9/Diapositiva4.JPG)
+4. Buscar producto por nombre
+![Diapositiva5.JPG](imagenes_S9/Diapositiva5.JPG)
+5. Mostrar todos los productos
+![Diapositiva6.JPG](imagenes_S9/Diapositiva6.JPG)
+6. Salir
+![Diapositiva7.JPG](imagenes_S9/Diapositiva7.JPG)
