@@ -38,6 +38,7 @@ Capturas de Pantalla
 A continuación, se muestran tres capturas de pantalla que ilustran el funcionamiento del sistema en ejecución.
 _____
 --- Sistema de Gestión de Inventarios ---
+
 ![Diapositiva1.JPG](imagenes_S9/Diapositiva1.JPG)
 1. Añadir nuevo producto
 ![Diapositiva2.JPG](imagenes_S9/Diapositiva2.JPG)
