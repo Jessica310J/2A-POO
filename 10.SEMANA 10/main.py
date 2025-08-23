@@ -17,6 +17,7 @@ def menu_principal():
     return input("Seleccione una opción: ")
 
 
+
 def main():
     """Función principal del programa."""
     # La clase Inventario se encarga de cargar el archivo al iniciar
