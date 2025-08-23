@@ -19,6 +19,7 @@ def menu_principal():
 
 def main():
     """Función principal del programa."""
+    # La clase Inventario se encarga de cargar el archivo al iniciar
     inventario = Inventario()
 
     while True:
@@ -26,7 +27,10 @@ def main():
 
         if opcion == '1':
             try:
-                id_producto = int(input("Ingrese el ID del producto: "))
+                id_producto = input("Ingrese el ID del producto: ")
+                if not id_producto:
+                    print("⚠️ El ID no puede estar vacío.")
+                    continue
                 nombre = input("Ingrese el nombre del producto: ")
                 cantidad = int(input("Ingrese la cantidad: "))
                 precio = float(input("Ingrese el precio: "))
@@ -34,27 +38,32 @@ def main():
                 nuevo_producto = Producto(id_producto, nombre, cantidad, precio)
                 inventario.anadir_producto(nuevo_producto)
             except ValueError:
-                print("Error: ID, cantidad y precio deben ser números válidos.")
+                print("❌ Error: Cantidad y precio deben ser números válidos.")
 
         elif opcion == '2':
-            try:
-                id_producto = int(input("Ingrese el ID del producto a eliminar: "))
-                inventario.eliminar_producto(id_producto)
-            except ValueError:
-                print("Error: El ID debe ser un número entero.")
+            id_producto = input("Ingrese el ID del producto a eliminar: ")
+            inventario.eliminar_producto(id_producto)
 
         elif opcion == '3':
-            try:
-                id_producto = int(input("Ingrese el ID del producto a actualizar: "))
-                nueva_cantidad_input = input("Ingrese la nueva cantidad (o Enter para no cambiar): ")
-                nuevo_precio_input = input("Ingrese el nuevo precio (o Enter para no cambiar): ")
+            id_producto = input("Ingrese el ID del producto a actualizar: ")
 
+            # Verificamos si el producto existe antes de solicitar más datos.
+            if id_producto not in inventario.productos:
+                print("⚠️ Error: Producto no encontrado.")
+                continue
+
+            print("Deje en blanco si no desea actualizar el campo.")
+            nueva_cantidad_input = input(f"Ingrese la nueva cantidad ({inventario.productos[id_producto].cantidad}): ")
+            nuevo_precio_input = input(f"Ingrese el nuevo precio ({inventario.productos[id_producto].precio}): ")
+
+            try:
+                # Si la entrada no está vacía, la convertimos a un número. De lo contrario, usamos None.
                 nueva_cantidad = int(nueva_cantidad_input) if nueva_cantidad_input else None
                 nuevo_precio = float(nuevo_precio_input) if nuevo_precio_input else None
 
                 inventario.actualizar_producto(id_producto, nueva_cantidad, nuevo_precio)
             except ValueError:
-                print("Error: Cantidad y precio deben ser números válidos.")
+                print("❌ Error: Cantidad y precio deben ser números válidos.")
 
         elif opcion == '4':
             nombre_busqueda = input("Ingrese el nombre o parte del nombre a buscar: ")
