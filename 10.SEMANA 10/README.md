@@ -31,21 +31,28 @@ Capturas de Pantalla
 A continuación, se muestran capturas que ilustran el flujo de trabajo del sistema en ejecución, incluyendo una vista del archivo de texto utilizado para la persistencia de datos.
 ___
 ### Menú Principal
+
 ____
 ### INVENTARIO CARGADO
-![Diapositiva1.JPG](IMAGENES_S10/Diapositiva1.JPG)
+![Diapositiva1.JPG](IMAGENES_10/Diapositiva1.JPG)
+
 ### PRODUCTO AGREGADO EXITOSAMENTE
-![Diapositiva2.JPG](IMAGENES_S10/Diapositiva2.JPG)
+![Diapositiva2.JPG](IMAGENES_10/Diapositiva2.JPG)
+
 ### PRODUCTO ACTUALIZADO EXITOSAMENTE
-![Diapositiva3.JPG](IMAGENES_S10/Diapositiva3.JPG)
+![Diapositiva3.JPG](IMAGENES_10/Diapositiva3.JPG)
+
 ### PRODUCTO ELIMINADO EXITOSAMENTE
-![Diapositiva4.JPG](IMAGENES_S10/Diapositiva4.JPG)
+![Diapositiva4.JPG](IMAGENES_10/Diapositiva4.JPG)
+
 ### ERROR AL INGRESAR DATOS
-![Diapositiva5.JPG](IMAGENES_S10/Diapositiva5.JPG)
+![Diapositiva5.JPG](IMAGENES_10/Diapositiva5.JPG)
+
 ### ERROR AL ELIMINAR DATOS
-![Diapositiva6.JPG](IMAGENES_S10/Diapositiva6.JPG)
+![Diapositiva6.JPG](IMAGENES_10/Diapositiva6.JPG)
+
 ### ERROR AL ACTUALIZAR DATOS
-![Diapositiva7.JPG](IMAGENES_S10/Diapositiva7.JPG)
+![Diapositiva7.JPG](IMAGENES_10/Diapositiva7.JPG)
 
 
 
