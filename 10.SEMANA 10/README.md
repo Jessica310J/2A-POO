@@ -54,6 +54,9 @@ ____
 ### ERROR AL ACTUALIZAR DATOS
 ![Diapositiva7.JPG](IMAGENES_10/Diapositiva7.JPG)
 
+### MOSTRAR TODOS LOS PRODUCTOS 
+![Diapositiva8.JPG](IMAGENES_10/Diapositiva8.JPG)
+
 
 
 
